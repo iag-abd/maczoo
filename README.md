@@ -1,2 +1,3 @@
 # maczoo
-images
+
+Image defs for macbasket
